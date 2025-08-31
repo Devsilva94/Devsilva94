@@ -4,48 +4,38 @@
 💻 Focado em **Desenvolvimento Front-End**  
 ☁️ Aspirante a **DevOps**  
 ⚡ Apaixonado por **tecnologia**, **automação** e **inovação**  
-📚 Sempre aprendendo, praticando e evoluindo!  
 
 ---
 
 ## 🧑‍💻 Sobre mim
-- 🎓 Estudante dedicado, em constante evolução na área de tecnologia.
-- 💻 Desenvolvendo projetos em **HTML**, **CSS** e **JavaScript**.
-- ☁️ Interessado em **DevOps**, **cloud computing** e **infraestrutura automatizada**.
-- 🚀 Buscando sempre aprender e criar soluções eficientes.
+Sou um estudante dedicado de **Engenharia de Software**, com foco no **desenvolvimento Front-End**.  
+Estou em constante aprendizado, explorando **HTML**, **CSS** e **JavaScript**, e tenho como objetivo evoluir para a área de **DevOps**, trabalhando com **automação**, **infraestrutura** e **cloud computing**.  
+
+Meu objetivo é unir **design**, **performance** e **tecnologia** para criar **soluções eficientes** e **experiências incríveis**.
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
-- **Linguagens:** HTML5, CSS3, JavaScript  
-- **Versionamento:** Git & GitHub  
+## 🛠 Tecnologias que estudo
+- **Front-End:** HTML5, CSS3 e JavaScript  
+- **Versionamento:** Git e GitHub  
 - **Sistemas Operacionais:** Windows e Linux  
-- **Foco Futuro:** Docker, Kubernetes, CI/CD e Cloud
+- **Foco Futuro:** Docker, Kubernetes, CI/CD, Cloud e práticas DevOps
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-- 🔹 **Contribuições:** Estatísticas automáticas baseadas nos seus commits.  
-- 🔹 **Linguagens mais usadas:** Calculadas automaticamente pelo GitHub.  
-- 🔹 **Repositórios públicos:** Mostram sua evolução nos projetos.  
-
-> 💡 Para ver suas estatísticas em tempo real, basta ativar o **GitHub Readme Stats** [aqui](https://github.com/anuraghazra/github-readme-stats).
+## 📚 Objetivos
+- 🚀 Aperfeiçoar minhas habilidades em **desenvolvimento Front-End**  
+- ☁️ Aprender mais sobre **DevOps** e **computação em nuvem**  
+- 📈 Criar projetos que unam **design moderno**, **performance** e **automação**  
+- 💡 Contribuir para a **comunidade open source**  
 
 ---
 
 ## 🌐 Como me encontrar
 - 📧 **Email:** SEUEMAIL@gmail.com  
-- 💼 **LinkedIn:** [Seu LinkedIn](www.linkedin.com/in/joabson-barbosa-b9913a143)  
-- 🐙 **GitHub:** [https://github.com/SEU_USUARIO_GITHUB](https://github.com/Devsilva94)
+- 💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
+- 🐙 **GitHub:** [https://github.com/SEU_USUARIO_GITHUB](https://github.com/SEU_USUARIO_GITHUB)
 
 ---
 
-## 🚀 Objetivo
-> “Transformar minha paixão por tecnologia em soluções reais e impactantes.”
-
----
-
-## ⚡ Curiosidades
-- 📚 Sempre aprendendo algo novo sobre desenvolvimento.
-- 🔍 Amo explorar novas tecnologias e tendências.
-- 🎯 Foco total em **crescimento profissional** e **aprendizado contínuo**.
+> ✍️ “A tecnologia move o mundo, e meu objetivo é fazer parte dessa transformação.”
