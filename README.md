@@ -32,9 +32,9 @@ Meu objetivo é unir **design**, **performance** e **tecnologia** para criar **s
 ---
 
 ## 🌐 Como me encontrar
-- 📧 **Email:** SEUEMAIL@gmail.com  
-- 💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
-- 🐙 **GitHub:** [https://github.com/SEU_USUARIO_GITHUB](https://github.com/SEU_USUARIO_GITHUB)
+- 📧 **Email:** Joabson.silva@ucsal.edu.br  
+- 💼 **LinkedIn:** [Meu LinkedIn](www.linkedin.com/in/joabson-barbosa-b9913a143)  
+- 🐙 **GitHub:** [https://github.com/SEU_USUARIO_GITHUB](https://github.com/Devsilva94)
 
 ---
 
